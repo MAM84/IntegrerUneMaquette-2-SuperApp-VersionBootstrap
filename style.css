@@ -1,0 +1,16 @@
+.hero {
+	background-image: url(img/fond-entete.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.feature-fig {
+	width: 140px;
+	height: 140px;
+}
+
+.team-figure {
+	background-image: url(img/team.jpg);
+	background-size: cover;
+	background-position: top center;
+}
